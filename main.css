@@ -1,0 +1,237 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body > header {
+    padding: 16px 0;
+    background-color: rgb(13, 100, 13);
+    color: #fff;
+    
+}
+body {
+    font-family: 'Roboto', sem serifa;
+}
+
+header h1, section h2, section h3, section h4{
+    font-family: 'Shojumaru', cursive;
+}
+header nav li {
+    display: inline;
+    margin-left: 16px;
+}
+
+header nav li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.container, #fotos, .cadastro, .fotos_galeria {
+    max-width: 1280px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+header .container, section .container, section .cadastro {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.container img {
+    margin-top: 18px;
+}
+
+.fam {
+    width: 300px;
+}
+
+section .container .containers {
+    margin-left: 18px;
+}
+
+section .container h2 {
+    margin-top: 18px;
+    text-align: center;
+}
+#socio img {
+    margin-top: 18px;
+}
+
+section .container p {
+    margin-top: 8px;
+}
+
+#galeria h2, #socio h2{
+    text-align: center;   
+    background-color: rgb(13, 100, 13);
+    padding: 16px;
+    color: #fff;
+}
+#fotos img {
+    width: 410px;
+    margin-top: 10px;
+    margin-right: 13px;    
+}
+section .cadastro {
+    align-items: flex-start;
+}
+
+.cadastro h3 {
+    margin-top: 18px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+form input, form textarea {
+    display: block;
+    width: 320px;
+    margin-bottom: 5px;
+    resize: none;
+}
+form button {
+    display: inline;
+    width: 158px;
+    background-color:rgb(13, 100, 13) ;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    height: 20px;
+}
+form button:hover {
+    background-color: rgb(119, 238, 119);
+}
+
+form textarea {
+    height: 100px;
+}
+section .midias {
+    margin-top: 25px;
+}
+.midias img {
+    display: block;    
+}
+footer {
+    margin-top: 10px;
+    background-color: rgb(13, 100, 13);
+    padding: 10px;
+    color: #fff;
+    font-size: 14px;
+}
+#fotos {
+    background-color: yellowgreen;
+    max-width:100%;
+}
+
+input:focus, textarea:focus {
+    outline-color:rgb(13, 100, 13) ;
+}
+h4 {
+    font-size: 12px;
+    align-items: center;
+    text-align: center;    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
